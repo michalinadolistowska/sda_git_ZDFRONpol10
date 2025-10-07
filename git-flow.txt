@@ -1,0 +1,10 @@
+1. git checkout -b "new-branch-name"
+2. robienie zmian
+3. git add .
+4. git commit -m "message"
+5. git push (set upstream za piewrszym razem)
+6. powtórz kroki od 2-5 (push już bez upstream)
+7. nowy PR (pull request)
+8. merge
+9. git checkout master - powrót na główny branch 
+10. update master-branch = git pull / ew. fetch aby tylko sprawdzić różnice
